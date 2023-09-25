@@ -16,7 +16,7 @@ const ButtonEntrar = styled.button`
   height: 50px;
   flex-shrink: 0;
   border-radius: 5px;
-  background: red;
+  background: #04c35c;
   border: 0;
   cursor: pointer;
 
